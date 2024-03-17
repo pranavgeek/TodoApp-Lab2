@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "expo": "^50.0.11",
+    "firebase": "^10.8.1",
+    "react-native": "^0.73.5",
+    "react-native-paper": "^5.12.3",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
+  },
+  "devDependencies": {
+    "metro": "^0.80.6"
+  }
+}
